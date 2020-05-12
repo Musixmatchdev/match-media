@@ -50,7 +50,7 @@
     "@unimodules/core": "*"
   },
   "peerDependencies": {
-    "expo": "^35.0.1 || ^36.0.0",
+    "expo": "^37.0.0",
     "expo-screen-orientation": "^1.0.0",
     "react-native": "*"
   },
